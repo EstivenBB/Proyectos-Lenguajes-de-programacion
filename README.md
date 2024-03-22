@@ -1,4 +1,4 @@
-# Proyectos-Lenguajes-de-programaci-n
+# Proyectos-Lenguajes-de-programacion
 Creador: Estiven Betancur
 Idioma: Español
 IDE: Replit
