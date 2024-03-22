@@ -4,4 +4,4 @@
 #IDE: Replit
 #Enlace: https://replit.com/join/svrledocrx-estivenb
 
-Resumen: El proyecto "Creación de seres vivos" es un proyecto de herencia, implementación, uso de metodos en java, entre otros. Además para la creación de instancias se utiliza el metodo factory, (en este caso: humanos, osos y aliens), cada uno contiene diferencias en la implementacion de metodos y su acceso.
+Resumen: Este proyecto se centra en la implementación de un sistema en Java llamado "Creación de Seres Vivos", que aborda la creación y gestión de seres vivos dividiéndolos en dos categorías principales: los que pertenecen a la tierra y los que pertenecen al cielo. El sistema utiliza el patrón de diseño Factory Method para crear dinámicamente instancias de seres vivos, y proporciona una estructura organizada con clases, interfaces y paquetes correspondientes.
